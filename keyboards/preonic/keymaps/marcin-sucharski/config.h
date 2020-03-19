@@ -45,5 +45,6 @@
 #define TAPPING_TERM 200
 #define RETRO_TAPPING
 
+#define USB_MAX_POWER_CONSUMPTION 50
 
 #endif
